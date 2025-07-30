@@ -23,6 +23,7 @@
 ---| '"machine"'
 ---| '"ristretto"'
 ---| '"spectrum"'
+---| '"sun"'
 
 --- Automatically change filter for day/night
 ---@class DayNightConfig
